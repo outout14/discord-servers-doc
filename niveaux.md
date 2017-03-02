@@ -6,7 +6,7 @@ Tu n'es pas sans le savoir, le serveur possède un système de niveaux. C'est pa
 - Niveau 1: Tu es Jak & Daxter
 - Niveau 6: Cours chercher des pièces de puzzle et taper Gruntilda avec Banjo et Kazooie :joy:
 - Niveau 11: Des aventures avec la petite boule rose qu'est Kirby
-- Niveau 16: Incarne Pikachu dans sa splendeur électrique :stuck_toung_out:
+- Niveau 16: Incarne Pikachu dans sa splendeur électrique
 - Niveau 21: Pars sauver le monde à bord d'un vaisseau avec Ratchet et Clank
 - Niveau 26: Va aussi taper Eggman avec Sonic et Tails
 - Niveau 31: Sauve pour la enième fois la princesse Peach avec Mario
